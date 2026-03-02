@@ -135,8 +135,7 @@ Designed and implemented complex network topologies using Cisco Packet Tracer wi
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SojoodAsfour&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=SojoodAsfour&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SojoodAsfour&layout=compact&theme=tokyonight)
 
 ---
