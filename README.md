@@ -4,6 +4,10 @@
 
 ---
 
+💻 AI | Computer Architecture | Digital Systems | Networking
+
+---
+
 ## 📌 About Me
 
 🎓 Third-year Computer Engineering student at Birzeit University.  
