@@ -10,7 +10,6 @@
 💡 Passionate about building systems from low-level hardware design to intelligent AI solutions.
 
 I work across:
-
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🧠 Data Structures & Algorithms  
 - 🏗️ Computer Architecture  
@@ -43,7 +42,6 @@ I work across:
 - Simulated Annealing vs CSP (Sudoku Solver)  
 - Feature Engineering (TF-IDF, Embeddings)  
 - Model Evaluation (Accuracy, Precision, Recall, F1)  
-- Handling class imbalance & dataset noise  
 
 ---
 
@@ -79,72 +77,55 @@ I work across:
 - Custom HTTP Web Server (No Frameworks)  
 - SHA256 Password Hashing  
 - Session Management using Cookies  
-- Cisco Packet Tracer  
-- OSPF Routing & Subnetting  
-- WLAN Configuration  
+- Cisco Packet Tracer (OSPF Routing, Subnetting, WLAN)  
 
 ---
 
 # 🚀 Highlighted Projects
 
 ## 🤖 Arabic Sentiment Analysis (Machine Learning – Python)
-
-Developed and systematically evaluated multiple machine learning models for Arabic sentiment classification, including Decision Trees, Random Forests, Naïve Bayes, and Neural Networks. The project involved full data preprocessing (normalization, stemming, noise removal), feature engineering using TF-IDF and embeddings, and rigorous evaluation using Accuracy, Precision, Recall, and F1-score. Addressed challenges such as class imbalance and dialectal variations in Arabic text.
+Developed and evaluated multiple ML models for Arabic sentiment classification, including Decision Trees, Random Forests, Naïve Bayes, and Neural Networks. Built preprocessing pipelines and compared models using standard metrics.
 
 ---
 
-## 🧩 Comparative Study: Simulated Annealing vs CSP (Sudoku Solver)
-
-Formulated Sudoku as both a Constraint Satisfaction Problem (CSP) and an optimization problem. Implemented Backtracking with MRV and LCV heuristics and compared it against Simulated Annealing using different cooling schedules. Analyzed performance in terms of runtime, convergence, violations, and scalability to larger grids.
+## 🧩 Simulated Annealing vs CSP (Sudoku Solver)
+Implemented CSP Backtracking (MRV/LCV) and Simulated Annealing approaches to solve Sudoku. Compared solution quality, runtime, robustness, and scalability.
 
 ---
 
 ## 🏗️ 16-bit Single-Cycle RISC Processor (Logisim)
-
-Designed and implemented a complete 16-bit RISC processor including ALU, Register File, Control Unit, Instruction Memory, and Data Memory. Verified correct execution of all instructions through simulation and performed architectural validation testing.
+Designed and verified a complete 16-bit RISC processor (ALU, Register File, Control Unit, Memories). Tested full instruction behavior using simulation.
 
 ---
 
 ## 🧠 32-bit Predicated RISC Processor (Verilog)
-
-Designed and verified a simplified predicated 32-bit RISC processor supporting R-type, I-type, and J-type instructions. Implemented datapath and control path, instruction encoding, and complete RTL verification using simulation testbenches.
+Designed a simplified 32-bit predicated RISC processor supporting R/I/J types with RTL design + verification testbench and test programs.
 
 ---
 
 ## 🔌 n-Digit BCD Adder (Verilog)
-
-Implemented structural Ripple Carry and Carry Lookahead BCD Adders using gate-level design. Conducted latency analysis and calculated maximum operating clock frequency. Included functional verification and error testing.
-
----
-
-## 🌐 Tiny Web Server (Python – Low-Level Sockets)
-
-Built a complete HTTP web server from scratch without frameworks. Implemented request parsing, static file serving (HTML/CSS/PNG/JPG), SHA256 password hashing, user authentication, cookie-based session management, redirect handling, and custom 404 error responses.
+Implemented Ripple Carry and Carry Lookahead BCD adders structurally and performed timing/latency analysis.
 
 ---
 
-## 🌳 Task Management Systems (Data Structures – C)
-
-Developed task management systems using Linked Lists and Binary Search Trees. Implemented undo functionality, file-based loading, tree restructuring, search, deletion, and performance statistics (height, leaves, internal nodes).
+## 🌐 Tiny Web Server (Python – Sockets)
+Built a full HTTP server without frameworks: static files, SHA256 auth, cookies sessions, redirects, and custom 404 responses.
 
 ---
-
-## 🌐 Network Design & Implementation
-
-Designed and implemented complex network topologies using Cisco Packet Tracer with subnetting, OSPF routing, WLAN configuration, and multi-area architecture. Also developed TCP/UDP client-server systems and a custom HTTP server using socket programming.
 
 # 📊 GitHub Stats
 
+<!-- Streak (works) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=SojoodAsfour&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SojoodAsfour&theme=tokyonight)
+
+<!-- Languages alternative (no github-readme-stats) -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SojoodAsfour&theme=tokyonight)
 
 ---
 
 # 📫 Let's Connect
 
 📧 sojoodnazih@gmail.com  
-💼 [Sojood Asfour](https://www.linkedin.com/in/sojood-asfour/)
-
----
+💼 [LinkedIn](https://www.linkedin.com/in/sojood-asfour/)
 
 ✨ From logic gates to intelligent systems.
