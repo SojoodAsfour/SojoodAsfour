@@ -87,46 +87,51 @@ I work across:
 
 # 🚀 Highlighted Projects
 
-## 🤖 Arabic Sentiment Analysis (Python)
-Developed and compared multiple ML classifiers including Decision Trees, Random Forests, Naïve Bayes, and Neural Networks for Arabic social media sentiment classification.  
-Handled preprocessing challenges such as normalization, stemming, and class imbalance.
+## 🤖 Arabic Sentiment Analysis (Machine Learning – Python)
+
+Developed and systematically evaluated multiple machine learning models for Arabic sentiment classification, including Decision Trees, Random Forests, Naïve Bayes, and Neural Networks. The project involved full data preprocessing (normalization, stemming, noise removal), feature engineering using TF-IDF and embeddings, and rigorous evaluation using Accuracy, Precision, Recall, and F1-score. Addressed challenges such as class imbalance and dialectal variations in Arabic text.
 
 ---
 
-## 🏗️ 16-bit RISC Processor
-Designed and verified a full processor including:
-- ALU  
-- Register File  
-- Control Unit  
-- Instruction & Data Memory  
-All instructions were tested and validated through simulation.
+## 🧩 Comparative Study: Simulated Annealing vs CSP (Sudoku Solver)
+
+Formulated Sudoku as both a Constraint Satisfaction Problem (CSP) and an optimization problem. Implemented Backtracking with MRV and LCV heuristics and compared it against Simulated Annealing using different cooling schedules. Analyzed performance in terms of runtime, convergence, violations, and scalability to larger grids.
 
 ---
 
-## 🔌 n-Digit BCD Adder
-Implemented both Ripple Carry and Carry Lookahead architectures in Verilog.  
-Performed latency analysis and determined maximum operating frequency.
+## 🏗️ 16-bit Single-Cycle RISC Processor (Logisim)
+
+Designed and implemented a complete 16-bit RISC processor including ALU, Register File, Control Unit, Instruction Memory, and Data Memory. Verified correct execution of all instructions through simulation and performed architectural validation testing.
 
 ---
 
-## 🌐 Tiny Web Server (Python + Sockets)
-Built a complete web server from scratch:
-- HTTP request handling  
-- Static file serving  
-- User authentication system  
-- Cookie-based session management  
-- Custom 404 & redirect responses  
+## 🧠 32-bit Predicated RISC Processor (Verilog)
+
+Designed and verified a simplified predicated 32-bit RISC processor supporting R-type, I-type, and J-type instructions. Implemented datapath and control path, instruction encoding, and complete RTL verification using simulation testbenches.
 
 ---
 
-## 🌳 Task Management Systems
-Implemented task systems using:
-- Linked Lists  
-- Binary Search Trees  
-- File-based task loading  
-- Tree restructuring & performance analysis  
+## 🔌 n-Digit BCD Adder (Verilog)
+
+Implemented structural Ripple Carry and Carry Lookahead BCD Adders using gate-level design. Conducted latency analysis and calculated maximum operating clock frequency. Included functional verification and error testing.
 
 ---
+
+## 🌐 Tiny Web Server (Python – Low-Level Sockets)
+
+Built a complete HTTP web server from scratch without frameworks. Implemented request parsing, static file serving (HTML/CSS/PNG/JPG), SHA256 password hashing, user authentication, cookie-based session management, redirect handling, and custom 404 error responses.
+
+---
+
+## 🌳 Task Management Systems (Data Structures – C)
+
+Developed task management systems using Linked Lists and Binary Search Trees. Implemented undo functionality, file-based loading, tree restructuring, search, deletion, and performance statistics (height, leaves, internal nodes).
+
+---
+
+## 🌐 Network Design & Implementation
+
+Designed and implemented complex network topologies using Cisco Packet Tracer with subnetting, OSPF routing, WLAN configuration, and multi-area architecture. Also developed TCP/UDP client-server systems and a custom HTTP server using socket programming.
 
 # 📊 GitHub Stats
 
@@ -139,7 +144,7 @@ Implemented task systems using:
 # 📫 Let's Connect
 
 📧 sojoodnazih@gmail.com  
-💼 (https://www.linkedin.com/in/sojood-asfour/)  
+💼 [Sojood Asfour](https://www.linkedin.com/in/sojood-asfour/)
 
 ---
 
