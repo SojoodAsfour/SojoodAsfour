@@ -4,8 +4,8 @@
 
 ---
 
-💻 AI | Computer Architecture | Digital Systems | Networking
-
+💻 Artificial Intelligence | Computer Architecture | Digital Systems | Networking
+Building intelligent systems from logic gates to machine learning models.
 ---
 
 ## 📌 About Me
