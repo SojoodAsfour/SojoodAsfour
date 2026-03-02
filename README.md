@@ -115,11 +115,13 @@ Built a full HTTP server without frameworks: static files, SHA256 auth, cookies 
 
 # 📊 GitHub Stats
 
-<!-- Streak (works) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=SojoodAsfour&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SojoodAsfour&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- Languages alternative (no github-readme-stats) -->
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SojoodAsfour&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SojoodAsfour&theme=tokyonight" />
+</p>
 
 ---
 
