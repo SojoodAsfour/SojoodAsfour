@@ -6,14 +6,6 @@
 ## 📌 About Me
 
 🎓 Third-year Computer Engineering student at Birzeit University.  
-💡 Passionate about building systems from low-level hardware design to intelligent AI solutions.
-
-I work across:
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Data Structures & Algorithms  
-- 🏗️ Computer Architecture  
-- 🔌 Digital Design (Verilog)  
-- 🌐 Networking & Web Development  
 
 ---
 
